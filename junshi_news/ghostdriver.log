@@ -1,0 +1,61 @@
+[INFO  - 2018-07-03T10:12:53.462Z] GhostDriver - Main - running on port 62860
+[INFO  - 2018-07-03T10:12:53.494Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-07-03T10:12:53.494Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.customHeaders:  - {}
+[INFO  - 2018-07-03T10:12:53.494Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-07-03T10:12:53.494Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a6079e10-7ea9-11e8-b4f7-976f0d8440fc
+[ERROR - 2018-07-03T10:13:00.058Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.onError - msg: TypeError: undefined is not an object (evaluating 'result.result.account.nikename')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-03T10:13:00.058Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.onError - stack:
+  youku1 (undefined:1)
+  (anonymous function) (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8775)
+  fire (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:3073)
+  fireWith (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:3185)
+  done (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8251)
+  callback (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8687)
+  dispatch (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:4409)
+  handle (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:4095)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-03T10:13:00.386Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.onError - msg: TypeError: undefined is not an object (evaluating 'result.result.userid')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-03T10:13:00.387Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.onError - stack:
+  baidu (undefined:1)
+  (anonymous function) (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8775)
+  fire (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:3073)
+  fireWith (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:3185)
+  done (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8251)
+  callback (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8687)
+  dispatch (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:4409)
+  handle (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:4095)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-03T10:13:00.511Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.onError - msg: TypeError: undefined is not an object (evaluating 'result.data.film.myCinema')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-03T10:13:00.511Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.onError - stack:
+  qq3 (undefined:1)
+  (anonymous function) (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8775)
+  fire (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:3073)
+  fireWith (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:3185)
+  done (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8251)
+  callback (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8687)
+  dispatch (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:4409)
+  handle (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:4095)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-03T10:13:00.989Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.onError - msg: TypeError: undefined is not an object (evaluating 'tmp.uid')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-07-03T10:13:00.989Z] Session [a6079e10-7ea9-11e8-b4f7-976f0d8440fc] - page.onError - stack:
+  iqiyi (undefined:1)
+  (anonymous function) (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8775)
+  fire (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:3073)
+  fireWith (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:3185)
+  done (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8251)
+  callback (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:8687)
+  dispatch (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:4409)
+  handle (http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js:4095)
+
+  phantomjs://platform/console++.js:263 in error
